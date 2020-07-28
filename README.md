@@ -11,7 +11,7 @@ Box-shaped cubic arena:-
 ***P1 and P2***<br />
 These objects indicate the spawn position of both players. They are at each side of the cubic arena facing each other as opponents. They are controlled by the players and their collision with the ball drives the game.<br />
 ***Walls or surfaces***<br />
-There are 6 walls to form a bounding box for gaming area. Box colliders are enabled and the ball can bounce on any of the walls during its motion in 3D space. With every collision, the ball keeps losing momentum and eventually comes to rest (in a realistic manner)
+There are 6 walls to form a bounding box for gaming area. Box colliders are enabled and the ball can bounce on any of the walls during its motion in 3D space. With every collision, the ball keeps losing momentum and eventually comes to rest (in a realistic manner)<br />
 ***Spherical Cue ball / Bouncer***<br />
 -present at the center of the arena by default. The players(P1 and P2) through their movements strike this ball and make it move along a certain trajectory.<br />
 ***Pockets***<br />
